@@ -50,19 +50,3 @@ This project predicts whether an employee is likely to leave a company using HR 
 ### 📌 4. HR Actionable Insights
 - Reduce overtime, improve job satisfaction, and target early leavers
 
----
-
-## 🛠️ How to Use
-
-### ▶️ Run Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/employee-attrition-prediction.git
-cd employee-attrition-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the script
-python attrition_model.py
